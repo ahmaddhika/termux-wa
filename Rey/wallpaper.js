@@ -1,0 +1,17 @@
+[
+{"result":"https://c4.wallpaperflare.com/wallpaper/288/623/752/technology-asus-rog-asus-hd-wallpaper-preview.jpg"},
+{"result":"https://c4.wallpaperflare.com/wallpaper/163/392/912/map-wold-map-technology-world-wallpaper-preview.jpg"},
+{"result":"https://c4.wallpaperflare.com/wallpaper/1007/71/635/windows-10-technology-minimalism-black-wallpaper-preview.jpg"},
+{"result":"https://c4.wallpaperflare.com/wallpaper/137/542/433/technology-asus-rog-hd-wallpaper-preview.jpg"},
+{"result":"https://c4.wallpaperflare.com/wallpaper/126/117/95/quote-motivational-digital-art-typography-wallpaper-preview.jpg"},
+{"result":"https://c4.wallpaperflare.com/wallpaper/1000/580/1015/88-girl-anime-girls-cyberpunk-futuristic-wallpaper-preview.jpg"},
+{"result":"https://c1.wallpaperflare.com/preview/427/745/192/notebook-natural-laptop-macbook.jpg"},
+{"result":"https://c4.wallpaperflare.com/wallpaper/124/329/88/technology-amd-ryzen-hd-wallpaper-preview.jpg"},
+{"result":"https://c4.wallpaperflare.com/wallpaper/663/947/813/oldboy-japanese-digital-art-artwork-wallpaper-preview.jpg"},
+{"result":"https://c4.wallpaperflare.com/wallpaper/615/900/842/city-digital-light-design-wallpaper-preview.jpg"},
+{"result":"https://c4.wallpaperflare.com/wallpaper/373/655/596/technology-asus-rog-city-hd-wallpaper-preview.jpg"},
+{"result":"https://c4.wallpaperflare.com/wallpaper/336/163/715/honeycombs-abstract-minimalism-simple-background-wallpaper-preview.jpg"},
+{"result":"https://c4.wallpaperflare.com/wallpaper/914/746/419/abstract-digital-art-minimalism-simple-background-wallpaper-preview.jpg"},
+{"result":"https://c4.wallpaperflare.com/wallpaper/670/883/685/plexus-atoms-neutrons-electrons-wallpaper-preview.jpg"},
+{"result":"https://c4.wallpaperflare.com/wallpaper/268/96/863/anime-anime-girls-original-characters-short-hair-wallpaper-preview.jpg"}
+]
